@@ -7,5 +7,9 @@ All graphics have been realized by GrosNoobDu78.
 For launch the game download the Marmots.jar and launch it.
 
 For launch in debug mod.
-download the START DEBUGMOD.bat and launch it.
+
+1 Download the Marmots.jar
+
+2 Download the START DEBUGMOD.bat and launch it.
+
 <!>DON'T RENAME Marmots.jar <!>
