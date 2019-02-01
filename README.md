@@ -3,6 +3,6 @@ Groundhog Defense developper's access
 
 ==============================================================================
 
-For access of Developper's Version : versions/latest/GDDevV.jar
+For access of Developper's Version download the file : latestGDDevV.jar
 
-For Graphics : assets/graphics/"folder concerned"
+For Graphics please rename the file (ex) : assetsGraphicsMenuBackground
